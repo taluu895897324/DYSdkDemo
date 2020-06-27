@@ -1,0 +1,6 @@
+framework module DYSDKDemo {
+  umbrella header "DYSDKDemo.h"
+
+  export *
+  module * { export * }
+}
